@@ -1,0 +1,8 @@
+.intro__list-item {
+  list-style-type: none;
+  font-family: "Inter";
+  font-size: 12px;
+  font-weight: bold;
+  line-height: 1.5;
+  color: #FFFFFF;
+}

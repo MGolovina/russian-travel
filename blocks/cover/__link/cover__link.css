@@ -1,0 +1,12 @@
+.cover__link {
+  text-decoration: none;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.cover__link:hover {
+  opacity: .8;
+}
