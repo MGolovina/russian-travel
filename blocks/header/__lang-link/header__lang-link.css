@@ -7,10 +7,6 @@
   text-decoration: none;
   transition: opacity .3s ease;
 }
-
-.header__lang-link_ru {
-  text-decoration: underline;
-}
   
 .header__lang-link:hover {
   opacity: .8;
